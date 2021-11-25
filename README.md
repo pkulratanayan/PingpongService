@@ -1,2 +1,1 @@
-# PingpongService
-Pingpong leaderboard service
+Readme in main
